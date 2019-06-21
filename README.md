@@ -60,3 +60,6 @@ public class Main {
             + "}                                                              ";
 }
 ```
+
+state  2: compile string and load class:
+        查看 DynamicPOJO.java  main方法调试
